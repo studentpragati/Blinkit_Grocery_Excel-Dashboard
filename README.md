@@ -1,22 +1,27 @@
+## Project Title: Blinkit Outlet Performance & Product Sales Dashboard
 
-## 🚀 Turning Data into Insights with Excel! 📊
+## Business Problem: Blinkit needed to understand how outlet size, tier location, fat content, and item type affected sales and ratings — to make smarter decisions about where to expand and what to stock.
 
-Excited to showcase my latest project: a sales performance dashboard for Blinkit, providing insights like:
-✅ Total Sales: $1.20M
+## Tools Used: Microsoft Excel, Pivot Tables, Charts, Slicers, Dashboard Design
 
-✅ Average Sales: $141
+## What I Did:
 
-✅ Trends by outlet size, location, and item type.
+Structured raw grocery sales data across outlet types, sizes, tiers, and item categories
+Built a filter panel with slicers for Outlet Size (High/Medium/Small)
+Created donut charts for fat content distribution (Regular 67% vs Low Fat 33%) and outlet size share
+Designed a horizontal bar chart for 16 item types ranked by sales value
+Built a line chart showing outlet establishment growth from 2000 to 2022
+Added bar charts comparing Tier 1, 2, and 3 location performance and outlet type breakdown (Grocery Store vs Supermarket Types)
 
- ## 🔧 Steps in Creating the Dashboard:
+## Key Insights:
 
-1️⃣ Cleaned and prepped the dataset for analysis.
+Total sales: $0.51M with avg sales of $140 per outlet and avg rating of 4.0
+Medium-sized outlets generate the highest sales volume
+Tier 3 locations outperform Tier 1 — counter-intuitive but actionable
+Snack Foods, Staples, and Household items are top-selling categories
+Outlet establishment growth peaks sharply after 2018 showing rapid expansion
 
-2️⃣ Designed interactive visuals (filters for outlet size, location, and item type).
+## Impact: Revealed Tier 2 and Tier 3 cities as high-opportunity expansion zones; identified top-selling item types to guide procurement and stocking strategy across outlet sizes.
 
-3️⃣ Analyzed trends and patterns in sales, ratings, and item categories.
+## Dashboard Output: Excel dashboard with KPI cards, donut charts, bar charts for item type and location tier, line chart for outlet growth, and outlet type comparison with interactive slicers.
 
-4️⃣ Used EXCEL features to ensure clarity and actionable insights.
-
-
-This dashboard highlights how data visualization drives informed decisions! Let me know your thoughts. 🚀
