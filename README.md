@@ -1,6 +1,7 @@
 ## Project Title: Blinkit Outlet Performance & Product Sales Dashboard
 
-## Business Problem: Blinkit needed to understand how outlet size, tier location, fat content, and item type affected sales and ratings — to make smarter decisions about where to expand and what to stock.
+## Business Problem:
+Blinkit needed to understand how outlet size, tier location, fat content, and item type affected sales and ratings — to make smarter decisions about where to expand and what to stock.
 
 ## Tools Used: Microsoft Excel, Pivot Tables, Charts, Slicers, Dashboard Design
 
@@ -21,7 +22,9 @@ Tier 3 locations outperform Tier 1 — counter-intuitive but actionable
 Snack Foods, Staples, and Household items are top-selling categories
 Outlet establishment growth peaks sharply after 2018 showing rapid expansion
 
-## Impact: Revealed Tier 2 and Tier 3 cities as high-opportunity expansion zones; identified top-selling item types to guide procurement and stocking strategy across outlet sizes.
+## Impact:
+Revealed Tier 2 and Tier 3 cities as high-opportunity expansion zones; identified top-selling item types to guide procurement and stocking strategy across outlet sizes.
 
-## Dashboard Output: Excel dashboard with KPI cards, donut charts, bar charts for item type and location tier, line chart for outlet growth, and outlet type comparison with interactive slicers.
+## Dashboard Output: 
+Excel dashboard with KPI cards, donut charts, bar charts for item type and location tier, line chart for outlet growth, and outlet type comparison with interactive slicers.
 
